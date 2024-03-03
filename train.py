@@ -1,15 +1,4 @@
-#!/usr/bin/env python3
-# Copyright (C) 2024-present Naver Corporation. All rights reserved.
-# Licensed under CC BY-NC-SA 4.0 (non-commercial use only).
-#
-# --------------------------------------------------------
-# training code for DUSt3R
-# --------------------------------------------------------
-# References:
-# MAE: https://github.com/facebookresearch/mae
-# DeiT: https://github.com/facebookresearch/deit
-# BEiT: https://github.com/microsoft/unilm/tree/master/beit
-# --------------------------------------------------------
+''' Training script for DUST3R'''
 import argparse
 import datetime
 import json
